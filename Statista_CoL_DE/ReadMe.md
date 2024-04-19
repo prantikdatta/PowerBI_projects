@@ -1,7 +1,6 @@
 
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 The dataset contains researched data for various KPIs aiming to provide an overview of the cost of living among selected cities in Germany.
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
 
 User-Friendly Report on Cost of Living in Germany (Power BI)
 --------------------------------------------------------------------------
