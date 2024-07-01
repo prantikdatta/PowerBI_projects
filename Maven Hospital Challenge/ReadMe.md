@@ -1,8 +1,8 @@
 
 About this project Massachusetts General Hospital (MGH) is focused on improving operational efficiency, patient outcomes, and financial performance. To support these goals, the executive team requires a comprehensive dashboard that provides key performance indicators (KPIs) and insights into patient admissions, readmissions, average length of stay, average costs, and insurance coverage for procedures. This data-driven approach aims to identify trends, optimize resource allocation, and enhance overall hospital performance.
 
-**Key Insights
-**
+**Key Insights**
+
 
 **Patient Readmissions**: The readmission rate stands at 18%, indicating a need to investigate underlying causes and implement strategies to reduce readmissions. 
 
@@ -16,8 +16,8 @@ About this project Massachusetts General Hospital (MGH) is focused on improving 
 
 **Claim Costs by Payer**: A significant portion of claims, $49.26M, are from patients with no insurance, which impacts hospital finances and necessitates strategies for better patient insurance coverage.
 
-**Impact Driven
-**
+**Impact Driven**
+
 
 **Operational Efficiency**: By identifying high readmission rates and average costs, the hospital can implement targeted interventions to improve patient care and reduce unnecessary expenses. 
 
